@@ -1,0 +1,10 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore cache folder
+.cache
+
+# Ignore env variables folder
+.env
+
+__pycache__/
