@@ -1,7 +1,8 @@
 # spotify_spotipy
 ## Recommending tracks using spotipy!
 
-![spotipyGIF](https://user-images.githubusercontent.com/77867929/126919193-b9e0582d-f6d4-4e9f-978a-051eb410e935.gif)
+![spotipyGIF](https://user-images.githubusercontent.com/77867929/126919340-a34f25a5-67e1-445e-b080-c07c5027fdb6.gif)
+
 
 How to use?
 
