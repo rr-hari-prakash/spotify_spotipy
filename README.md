@@ -1,5 +1,5 @@
 # spotify_spotipy
-Recommending tracks using spotipy!
+## Recommending tracks using spotipy!
 
 How to use?
 
